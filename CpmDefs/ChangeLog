@@ -1,0 +1,6 @@
+2016-08-24  Natalia Portillo  <claunia@claunia.com>
+
+	* Program.cs:
+	* CpmDefs.csproj:
+	* AssemblyInfo.cs: First version.
+
